@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Şifre Kaydet ve Öner</string>
+    <string name="username">Kullanıcı Adı</string>
+    <string name="password">Şifre</string>
+    <string name="butonLogin">Giriş</string>
+    <string name="butonForgot" translatable="false">Şifremi unuttum</string>
+    <string name="butonRegister" translatable="false">Kayıt Ol</string>
+    <string name="savedPasswords" translatable="false">Kayıtlı Şifreler</string>
+    <string name="suggestPasswords" translatable="false">Şifre Öner</string>
+    <string name="butonSignUp" translatable="false">Kayıt Ol</string>
+    <string name="addButon" translatable="false">Ekle</string>
+    <string name="showButon" translatable="false">Göster</string>
+    <string name="deleteButon" translatable="false">Sil</string>
+    <string name="hintType" translatable="false">Tip</string>
+    <string name="hintPassword" translatable="false">Şifre</string>
+    <string name="text6" translatable="false">6 haneli şifre</string>
+    <string name="text8" translatable="false">8 haneli şifre</string>
+    <string name="text12" translatable="false">12 haneli şifre</string>
+    <string name="forgotKeyword" translatable="false">Anahtar kelimenizi giriniz</string>
+    <string name="forgotNewPassword" translatable="false">Yeni şifrenizi giriniz</string>
+    <string name="forgotButon" translatable="false">Şifreyi değiştir</string>
+    <string name="updateButton" translatable="false">Güncelle</string>
+    <string name="keyword" translatable="false">Anahtar Kelime</string>
+    <string name="logout" translatable="false">Çıkış</string>
+    <string name="remember" translatable="false">Beni hatırla</string>
+</resources>

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name" translatable="false">Saved and Suggest Passwords</string>
+    <string name="username" translatable="false">Username</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="butonLogin" translatable="false">Log In</string>
+    <string name="butonForgot" translatable="false">Forgot password?</string>
+    <string name="butonRegister" translatable="false">Regıster</string>
+    <string name="savedPasswords" translatable="false">Saved Passwords</string>
+    <string name="suggestPasswords" translatable="false">Suggest Passwords</string>
+    <string name="butonSignUp" translatable="false">Sıgn Up</string>
+    <string name="addButon" translatable="false">Add</string>
+    <string name="showButon" translatable="false">Show</string>
+    <string name="deleteButon" translatable="false">Delete</string>
+    <string name="hintType" translatable="false">Type</string>
+    <string name="hintPassword" translatable="false">Password</string>
+    <string name="text6" translatable="false">6 dıgıts password</string>
+    <string name="text8" translatable="false">8 dıgıts password</string>
+    <string name="text12" translatable="false">12 dıgıts password</string>
+    <string name="forgotKeyword" translatable="false">Enter a key word</string>
+    <string name="forgotNewPassword" translatable="false">Enter a new password</string>
+    <string name="forgotButon" translatable="false">Change password</string>
+    <string name="updateButton" translatable="false">Update</string>
+    <string name="keyword" translatable="false">Keyword</string>
+    <string name="logout" translatable="false">Log out</string>
+    <string name="remember" translatable="false">Remember me</string>
+
+</resources>
